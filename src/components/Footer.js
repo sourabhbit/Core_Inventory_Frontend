@@ -10,7 +10,12 @@ const Footer = () => {
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
-          <span>Created by Andrés Felipe Pérez Rodríguez</span>
+          <span>
+            Created by{" "}
+            <a href="https://sourabhbit.github.io/" target="_blank">
+              Simply Developer
+            </a>
+          </span>
           <i className="fas fa-external-link-alt"></i>
         </a>
       </Col>

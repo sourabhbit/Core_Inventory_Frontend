@@ -2,8 +2,10 @@
     Production: https://coreinventoryapi.herokuapp.com/api
     Development: http://localhost:4000/api
 */
+//api: "http://13.233.167.236:4000/api",
+// api: "http://localhost:4000/api",
 export const config = {
-  api: "http://localhost:4000/api",
+  api: "http://13.233.167.236:4000/api",
 };
 
 /*
